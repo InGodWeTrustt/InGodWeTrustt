@@ -6,3 +6,4 @@
 ## [Codewars](https://www.codewars.com/users/InGodWeTrustt)
 
 ![](https://www.codewars.com/users/InGodWeTrustt/badges/large)
+![](https://www.codewars.com/users/y4y4/badges/large)
