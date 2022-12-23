@@ -1,3 +1,5 @@
+Всем доброго времени суток! Этот репозиторий будет посвящен в основном учебным целям.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InGodWeTrustt&layout=compact)](https://github.com/InGodWeTrustt/github-readme-stats)
 
 <!-- ## Stats
