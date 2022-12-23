@@ -1,4 +1,4 @@
-Всем доброго времени суток! Этот репозиторий будет посвящен в основном учебным целям.
+Всем доброго времени суток! Этот репозиторий будет посвящен в основном учебным целям. Также тут я размещаю решения задачек (например, кат) с сайта [**Codewars**](https://www.codewars.com/). Многие из них, как мне кажется, довольно сложные.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InGodWeTrustt&layout=compact)](https://github.com/InGodWeTrustt/github-readme-stats)
 
