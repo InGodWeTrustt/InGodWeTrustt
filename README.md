@@ -10,7 +10,8 @@
 * [Leearn CSS](https://web.dev/learn/css/)
 * Библиотека [React](https://ru.reactjs.org/) для создания UI (пользовательских интерфейсов)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InGodWeTrustt&layout=compact)](https://github.com/InGodWeTrustt/github-readme-stats)
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InGodWeTrustt&layout=compact&hide_title=true)](https://github.com/InGodWeTrustt/github-readme-stats)
 
 <!-- ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
