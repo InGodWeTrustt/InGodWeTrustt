@@ -17,7 +17,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
 
 ## Codewars
-> Здесь у меня представлены два аккаунта, зарегистрированных на сайте Codewars
+> Здесь у меня представлены два аккаунта, зарегистрированных на сайте [Codewars](https://www.codewars.com/dashboard)
 
 ![](https://www.codewars.com/users/InGodWeTrustt/badges/large)
 ![](https://www.codewars.com/users/y4y4/badges/large)
