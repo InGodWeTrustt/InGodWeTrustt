@@ -4,6 +4,7 @@
 ## Интернет-ресурсы
 Список наиболее часто посещаемых мной интернет - ресурсов:
 * [**MDN Web Docs**](https://developer.mozilla.org/ru/)
+* [Stackoverflow](https://ru.stackoverflow.com/)
 * Современный учебник по JS - [**Learn Javascript.ru**](https://learn.javascript.ru/)
 * [Leearn CSS](https://web.dev/learn/css/)
 * Библиотека [React](https://ru.reactjs.org/) для создания UI (пользовательских интерфейсов)
