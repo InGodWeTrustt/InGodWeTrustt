@@ -1,6 +1,8 @@
 ## Intro
 Всем доброго времени суток! Этот репозиторий будет посвящен в основном учебным целям. Также тут я размещаю решения задачек (например, кат) с сайта [**Codewars**](https://www.codewars.com/). Многие из них, как мне кажется, довольно сложные и требуют детального пояснения.
 
+Я не программист по образованию, я закончил бакалавриват (ФИМ) и магистратуру (ФПСиЭСТТ) РГУ Нефти и Газа им. И.М. Губкина
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InGodWeTrustt&layout=compact)](https://github.com/InGodWeTrustt/github-readme-stats)
 
 <!-- ## Stats
