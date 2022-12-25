@@ -7,7 +7,7 @@
 * [StackOverflow](https://ru.stackoverflow.com/)
 * Современный учебник по JS - [**Learn JavaScript.ru**](https://learn.javascript.ru/)
 * Сборщик статических модулей (к примеру, JS файлов и не только) - [Webpack](https://webpack.js.org/)
-* [Leearn CSS](https://web.dev/learn/css/)
+* [Learn CSS](https://web.dev/learn/css/)
 * Библиотека [React](https://ru.reactjs.org/) для создания UI (пользовательских интерфейсов)
 
 ## Most Used Languages
