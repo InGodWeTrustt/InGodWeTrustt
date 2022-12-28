@@ -1,4 +1,5 @@
 ## Intro
+
 Всем доброго времени суток! Этот репозиторий будет посвящен в основном учебным целям. 
 * Также тут будут размещаться по мере решения некоторые задачки с сайта [**Codewars**](https://www.codewars.com/). Многие из этих задачек, как мне кажется, довольно сложные и требуют детального пояснения.
 * Подобного рода задачки помогают на практике лучше запоминать те или иные теоретические материалы, полученные в ходе изучения некоторых источников. Как известно, сама по себе теория бесполезна без ее практического применения и очень плохо усваивается.
@@ -8,7 +9,7 @@
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [StackOverflow](https://stackoverflow.com/)
 * [**Learn JavaScript**](https://javascript.info/)
-* Static module bundler for modern JS app - [Webpack](https://webpack.js.org/)
+* Static module bundler for modern JS application - [Webpack](https://webpack.js.org/)
 * [Learn CSS](https://web.dev/learn/css/)
 * Library [React](https://ru.reactjs.org/) for building user interfaces (UI)
 
