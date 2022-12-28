@@ -8,9 +8,9 @@
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [StackOverflow](https://stackoverflow.com/)
 * [**Learn JavaScript**](https://javascript.info/)
-* Сборщик статических модулей (к примеру, JS файлов и не только) - [Webpack](https://webpack.js.org/)
+* Static module bundler for modern JS app - [Webpack](https://webpack.js.org/)
 * [Learn CSS](https://web.dev/learn/css/)
-* Библиотека [React](https://ru.reactjs.org/) для создания UI (пользовательских интерфейсов)
+* Library [React](https://ru.reactjs.org/) for building user interfaces (UI)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InGodWeTrustt&layout=compact&hide_title=true)](https://github.com/InGodWeTrustt/github-readme-stats)
