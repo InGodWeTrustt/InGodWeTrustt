@@ -7,7 +7,7 @@
 
 > EN
 
-i everyone! My repositories will be devoted mainly to the language JavaScript plus Typescript.
+Hi everyone! My repositories will be devoted mainly to the language JavaScript plus Typescript.
 
 ## Internet resources
 List of the most frequently visited internet resources:
