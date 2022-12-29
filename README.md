@@ -6,7 +6,8 @@
 * Подобного рода задачки помогают на практике лучше запоминать те или иные теоретические материалы, полученные в ходе изучения некоторых источников. Как известно, сама по себе теория бесполезна без ее практического применения и очень плохо усваивается.
 
 > EN
-Hi everyone! My repositories will be devoted mainly to the language JavaScript plus Typescript.
+
+i everyone! My repositories will be devoted mainly to the language JavaScript plus Typescript.
 
 ## Internet resources
 List of the most frequently visited internet resources:
