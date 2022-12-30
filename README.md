@@ -31,10 +31,19 @@ List of the most frequently visited internet resources:
 ![](https://www.codewars.com/users/y4y4/badges/large)
 
 <!--
+
 Краткий справочник по оформлению файлов такого типа:
 * - по сути представляют собой списки
 #  Заголовок первого уровня #
+
 ### Заголовок третьего уровня ###
 ###### Заголовок шестого уровня ###### 
 **текст**
+
+Для создания таблицы:
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ->
