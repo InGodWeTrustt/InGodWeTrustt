@@ -13,7 +13,7 @@ Hi everyone! My repositories will be devoted mainly to the language JavaScript p
 List of the most frequently visited internet resources:
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [StackOverflow](https://stackoverflow.com/)
-* [**Learn JavaScript**](https://javascript.info/)
+* [Learn JavaScript](https://javascript.info/)
 * Static module bundler for modern JS application - [Webpack](https://webpack.js.org/)
 * [Learn CSS](https://web.dev/learn/css/)
 * Library [React](https://ru.reactjs.org/) for building user interfaces (UI)
