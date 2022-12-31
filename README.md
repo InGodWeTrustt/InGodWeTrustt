@@ -46,4 +46,10 @@ List of the most frequently visited internet resources:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+
 ->
