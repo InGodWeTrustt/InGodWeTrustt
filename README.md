@@ -15,7 +15,7 @@
 * Library [React](https://ru.reactjs.org/) for building user interfaces (UI)
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InGodWeTrustt&layout=compact&hide_title=true)](https://github.com/InGodWeTrustt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InGodWeTrustt&hide_title=true&border_radius=5&border_color=a13030)](https://github.com/InGodWeTrustt/github-readme-stats)
 
 <!-- ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
