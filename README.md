@@ -5,7 +5,7 @@
 * Подобного рода задачки помогают на практике лучше запоминать те или иные теоретические материалы, полученные в ходе изучения некоторых источников. Как известно, сама по себе теория бесполезна без ее практического применения и очень плохо усваивается.
 
 ## Internet resources
-List of the most frequently visited internet resources:
+Список наиболее часто посещаемых интернет ресурсов:
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [StackOverflow](https://stackoverflow.com/)
 * [Learn JavaScript](https://javascript.info/)
