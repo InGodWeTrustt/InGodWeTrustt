@@ -6,6 +6,7 @@
 
 ## Internet resources
 Список наиболее часто посещаемых интернет ресурсов:
+* Различные видеолекции по алгоритмам и структурам данных
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [StackOverflow](https://stackoverflow.com/)
 * [Learn JavaScript](https://javascript.info/)
