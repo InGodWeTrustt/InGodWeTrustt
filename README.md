@@ -48,7 +48,7 @@ const tmp = []
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-Знак '>'  - для обозначения цитаты
+Знак '>'  - для обозначения цитаты первого уровня, '>>' - второго уровня.
 > **Note**
 > This is a note
 
