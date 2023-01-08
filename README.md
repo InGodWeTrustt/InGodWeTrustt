@@ -5,10 +5,10 @@
 * Подобного рода задачки помогают на практике лучше запоминать те или иные теоретические материалы, полученные в ходе изучения некоторых источников. Как известно, сама по себе теория бесполезна без ее практического применения и очень плохо усваивается.
 
 ## Internet resources
-Список наиболее часто посещаемых интернет ресурсов (
+Список наиболее часто посещаемых интернет ресурсов ([ENG] - 
 *List of the most frequently visited Internet resources*):
-* Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) (
-Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.))
+* Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) ( [ENG] -
+*Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.)*)
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [StackOverflow](https://stackoverflow.com/)
 * [Learn JavaScript](https://javascript.info/)
