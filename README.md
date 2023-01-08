@@ -1,14 +1,12 @@
 ## Intro
 
-Всем доброго времени суток (Hello everyone)! Этот репозиторий будет посвящен в основном учебным целям. 
+Всем доброго времени суток / *Hello everyone!*. Этот репозиторий будет посвящен в основном учебным целям. 
 * Также тут будут размещаться по мере решения некоторые задачки с сайта [**Codewars**](https://www.codewars.com/). Многие из этих задачек, как мне кажется, довольно сложные и требуют детального пояснения.
 * Подобного рода задачки помогают на практике лучше запоминать те или иные теоретические материалы, полученные в ходе изучения некоторых источников. Как известно, сама по себе теория бесполезна без ее практического применения и очень плохо усваивается.
 
 ## Internet resources
-Список наиболее часто посещаемых интернет ресурсов ([ENG] - 
-*List of the most frequently visited Internet resources*):
-* Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) ( [ENG] -
-*Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.)*)
+Список наиболее часто посещаемых интернет ресурсов / *List of the most frequently visited Internet resources*:
+* Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) / *Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.)*
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [StackOverflow](https://stackoverflow.com/)
 * [Learn JavaScript](https://javascript.info/)
