@@ -6,7 +6,7 @@
 
 ## Internet resources
 Список наиболее часто посещаемых интернет ресурсов (
-List of the most frequently visited Internet resources):
+*List of the most frequently visited Internet resources*):
 * Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) (
 Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.))
 * [MDN Web Docs](https://developer.mozilla.org/)
