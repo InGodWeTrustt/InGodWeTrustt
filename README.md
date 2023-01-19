@@ -10,6 +10,7 @@
 * Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) / *Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.)*
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [StackOverflow](https://stackoverflow.com/)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
 * [Learn JavaScript](https://javascript.info/)
 * Static module bundler for modern JS application - [Webpack](https://webpack.js.org/)
 * [Learn CSS](https://web.dev/learn/css/)
