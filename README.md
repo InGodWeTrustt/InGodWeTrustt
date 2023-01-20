@@ -8,14 +8,23 @@
 
 ## Интернет-ресурсы (Internet resources)
 Список наиболее часто посещаемых интернет ресурсов / *List of the most frequently visited Internet resources*:
-* Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) / *Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.)*
-* [MDN Web Docs](https://developer.mozilla.org/)
-* [StackOverflow](https://stackoverflow.com/)
-* [FreeCodeCamp](https://www.freecodecamp.org/)
-* [Learn JavaScript](https://javascript.info/)
-* Static module bundler for modern JS application - [Webpack](https://webpack.js.org/)
-* [Learn CSS](https://web.dev/learn/css/)
-* Library [React](https://ru.reactjs.org/) for building user interfaces (UI)
+
+▶️ Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) / *Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.)*
+
+▶️ [MDN Web Docs](https://developer.mozilla.org/)
+
+▶️  [StackOverflow](https://stackoverflow.com/)
+
+▶️  [FreeCodeCamp](https://www.freecodecamp.org/)
+
+▶️  [Learn JavaScript](https://javascript.info/)
+
+▶️  Static module bundler for modern JS application - [Webpack](https://webpack.js.org/)
+
+▶️  [Learn CSS](https://web.dev/learn/css/)
+
+▶️  Library [React](https://ru.reactjs.org/) for building user interfaces (UI)
+
 
 <!-- ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
