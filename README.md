@@ -1,7 +1,7 @@
-## Вступление (Intro)
+## Вступление
 Всем доброго времени суток. Этот репозиторий будет посвящен в основном учебным целям.
 
-## Интернет-ресурсы (Internet resources)
+## Интернет-ресурсы
 Список наиболее часто посещаемых интернет ресурсов:
 
 ▶️ Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) ( *Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.)*)
@@ -24,7 +24,7 @@
 <!-- ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
 
-## Аккаунты (Accounts)
+## Аккаунты
 ![](https://www.codewars.com/users/InGodWeTrustt/badges/large)
 ![](https://www.codewars.com/users/y4y4/badges/large)
 
