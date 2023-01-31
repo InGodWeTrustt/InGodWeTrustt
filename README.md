@@ -1,13 +1,8 @@
 ## Вступление (Intro)
-Всем доброго времени суток (*Hello everyone!*) . Этот репозиторий будет посвящен в основном учебным целям. 
-Здесь будут постепенно размещаться различные материалы, в частности:
-
-✔️ решения задачек, иначе говоря, кат с сайта [**Codewars**](https://www.codewars.com/), которые вы можете использовать, например, для открытия решений других участников и получения определенных очков (points) за выполнение данной каты.
-
-✔️ материалы по алгоритмам и стрктурам данных (DSA - Data Structures and Algorithms), которые я изучаю с различных источников, затем в сжатом виде выкладыаю. Все это по мере изучения и когда есть время.
+Всем доброго времени суток. Этот репозиторий будет посвящен в основном учебным целям. 
 
 ## Интернет-ресурсы (Internet resources)
-Список наиболее часто посещаемых интернет ресурсов (*List of the most frequently visited Internet resources*):
+Список наиболее часто посещаемых интернет ресурсов:
 
 ▶️ Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.) ( *Various materials on algorithms and data structures (video lectures, tutorials, websites, etc.)*)
 
@@ -30,8 +25,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
 
 ## Аккаунты (Accounts)
-> Here two accounts registered on site -  [Codewars](https://www.codewars.com/dashboard)
-
 ![](https://www.codewars.com/users/InGodWeTrustt/badges/large)
 ![](https://www.codewars.com/users/y4y4/badges/large)
 
