@@ -1,9 +1,10 @@
 ## Вступление
 > **Warning**
 > Translated from Russian into English by means of the site [**Deepl Translate**](https://www.deepl.com/ru/translator)  
-> I'm not a professional developer. I'm just an amateur.   
-> I have a degree in engineering, but it has nothing to do with programming  
-> If you want to support me in my endeavors, you can always give the repository a star   
+> 1. I'm not a professional developer. I'm just an amateur. 
+> 1. If you are looking for a professional developer who writes high-performance software, these repositories are not for you, as I do not yet have the knowledge I need   
+> 1. I have a degree in engineering, but it has nothing to do with programming.  
+> 1. If you want to support me in my endeavors, you can always give the repository a star   
 > Thank you for your attention
 
 ## Интернет-ресурсы
