@@ -1,4 +1,4 @@
-## Вступление
+## Вступление / Intro
 > **Warning**
 > Translated from Russian into English by means of the site [**Deepl Translate**](https://www.deepl.com/ru/translator)  
 > 1. I'm not a professional developer. I'm just an amateur. 
@@ -11,7 +11,7 @@
 Thank you for your attention! :+1:
 </p>
 
-## Интернет-ресурсы
+## Интернет-ресурсы / Resources
 Список наиболее часто посещаемых мной интернет ресурсов:
 
 ▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений
@@ -36,7 +36,7 @@ Thank you for your attention! :+1:
 <!-- ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
 
-## Аккаунты
+## Аккаунты / Accounts
 ![](https://www.codewars.com/users/InGodWeTrustt/badges/large)
 ![](https://www.codewars.com/users/y4y4/badges/large)
 
