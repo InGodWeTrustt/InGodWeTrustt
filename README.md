@@ -38,6 +38,7 @@ Thank you for your attention! :+1:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
 
 ## Аккаунты / Accounts
+Ссылка на мой аккаунт на Codewars - [Link](https://www.codewars.com/users/InGodWeTrustt)
 ![](https://www.codewars.com/users/InGodWeTrustt/badges/large)
 ![](https://www.codewars.com/users/y4y4/badges/large)
 
