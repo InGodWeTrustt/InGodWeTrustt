@@ -1,5 +1,10 @@
 ## Вступление
-Всем доброго времени суток. Этот репозиторий будет посвящен в основном учебным целям.
+> **Warning**
+> Translated from Russian into English by means of the site [**Deepl Translate**](https://www.deepl.com/ru/translator)  
+> I'm not a professional developer. I'm just an amateur.   
+> I have a degree in engineering, but it has nothing to do with programming  
+> If you want to support me in my endeavors, you can always give the repository a star   
+> Thank you for your attention
 
 ## Интернет-ресурсы
 Список наиболее часто посещаемых мной интернет ресурсов:
