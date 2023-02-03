@@ -19,9 +19,9 @@ Thank you for your attention! :+1:
 
 ▶️  [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGpt. 
 
-▶️ Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.)
+▶️  Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.)
 
-▶️ [MDN Web Docs](https://developer.mozilla.org/)
+▶️  [MDN Web Docs](https://developer.mozilla.org/)
 
 ▶️  [StackOverflow](https://stackoverflow.com/)
 
