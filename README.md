@@ -17,7 +17,7 @@ Thank you for your attention! :+1:
 
 ▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений
 
-▶️  [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGpt
+▶️  [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGpt. 
 
 ▶️ Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.)
 
