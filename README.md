@@ -15,7 +15,7 @@ Thank you for your attention! :+1:
 ## Интернет-ресурсы / Resources
 Список наиболее часто посещаемых мной интернет ресурсов:
 
-▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений
+▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions)
 
 ▶️  [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGpt. 
 
