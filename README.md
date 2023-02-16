@@ -35,6 +35,7 @@ Thank you for your attention! :+1:
 
 ▶️  Библиотека [React](https://ru.reactjs.org/) для создания пользовательских интерфейсов
 
+И это далеко не полный список!
 
 <!-- ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
