@@ -6,7 +6,7 @@
 > 1. I have a degree in engineering (oil and gas industry) 
 > 1. Here I will mainly post solutions to problems from the [**Codewars**](https://www.codewars.com/) site 
 > 1. I am also studying *algorithms and data structures* at the same time, and I put some information in a private repository
-> 1. If you want to support me in my endeavors, you can always give the repository a star :star: or followers 
+> 1. If you want to support me in my endeavors, you can always give the repository a star :star: 
 > 
 <p align="center">
 Thank you for your attention! :+1:
