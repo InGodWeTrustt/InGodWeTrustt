@@ -21,7 +21,7 @@ Thank you for your attention! :+1:
 
 ▶️  Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.)
 
-▶️  [Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/) - Introduction to Graphs – Data Structure and Algorithm Tutorials
+▶️  [Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/) - Introduction to Graphs – Data Structure and Algorithm Tutorials.
 
 ▶️  [MDN Web Docs](https://developer.mozilla.org/)
 
