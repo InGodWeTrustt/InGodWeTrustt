@@ -23,7 +23,7 @@ Thank you for your attention! :+1:
 
 ▶️ [Learn DS & Algorithms (Programiz)](https://www.programiz.com/dsa) 
 
-▶️  [Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/) - Introduction to Graphs – Data Structure and Algorithm Tutorials.
+▶️  [Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/) - Introduction to Graphs – Data Structure and Algorithm Tutorials (DSA)
 
 ▶️  [MDN Web Docs](https://developer.mozilla.org/)
 
