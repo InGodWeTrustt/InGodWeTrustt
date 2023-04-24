@@ -21,7 +21,7 @@ Thank you for your attention! :+1:
 
 ▶️  Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.)
 
-[Data Structures & Algorithms - Google Tech Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+▶️  [Data Structures & Algorithms - Google Tech Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 
 ▶️ [Learn DS & Algorithms (Programiz)](https://www.programiz.com/dsa) 
 
