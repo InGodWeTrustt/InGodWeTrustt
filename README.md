@@ -37,11 +37,11 @@ Thank you for your attention! :+1:
 
 ▶️  [Learn JavaScript](https://javascript.info/)
 
-▶️  [Webpack](https://webpack.js.org/)
+▶️  [Webpack](https://webpack.js.org/) 
 
 ▶️  [Learn CSS](https://web.dev/learn/css/)
 
-▶️  Библиотека [React](https://ru.reactjs.org/) для создания пользовательских интерфейсов
+▶️  Библиотека [React](https://ru.reactjs.org/) для создания пользовательских интерфейсов (UI)
 
 И это далеко не полный список!
 
