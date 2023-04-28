@@ -17,7 +17,7 @@ Thank you for your attention! :+1:
 
 ▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions)
 
-▶️  [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS  и т.д.
+▶️  [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
 
 ▶️  [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGpt. 
 
