@@ -15,17 +15,17 @@ Thank you for your attention! :+1:
 ## Интернет-ресурсы / Resources
 Список наиболее часто посещаемых мной интернет ресурсов:
 
-▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions)
+▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 
 ▶️  [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
 
 ▶️  [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGpt. 
 
-▶️  Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.)
+▶️  Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.).
 
-▶️  [Data Structures & Algorithms - Google Tech Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+▶️  [Data Structures & Algorithms - Google Tech Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/).
 
-▶️ [Learn DS & Algorithms (Programiz)](https://www.programiz.com/dsa) 
+▶️ [Learn DS & Algorithms (Programiz)](https://www.programiz.com/dsa).
 
 ▶️  [Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/) - Introduction to Graphs – Data Structure and Algorithm Tutorials (DSA)
 
