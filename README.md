@@ -21,6 +21,8 @@ Thank you for your attention! :+1:
 
 ▶️  [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGpt. 
 
+▶️  [Bing AI chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) - чат-бот, использую в Chrome при помощи расширения **Bing AI for Chrome** и VPN. 
+
 ▶️  Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.).
 
 ▶️  [Data Structures & Algorithms - Google Tech Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/).
