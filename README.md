@@ -13,8 +13,10 @@ Thank you for your attention! :+1:
 </p>
 
 ## Интернет-ресурсы / Resources
-Список наиболее часто посещаемых мной интернет ресурсов:
+<details>
+  <summary>Список наиболее часто посещаемых мной интернет ресурсов:</summary>
 
+  
 ▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 
 ▶️  [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
@@ -48,6 +50,7 @@ Thank you for your attention! :+1:
 ▶️  Библиотека [React](https://ru.reactjs.org/) для создания пользовательских интерфейсов (UI)
 
 И это далеко не полный список!
+</details>
 
 <!-- ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
