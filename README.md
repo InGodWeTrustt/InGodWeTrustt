@@ -25,8 +25,8 @@ Thank you for your attention! :+1:
 
 ▶️  [Bing AI Сhat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) - чат-бот, разработанный Microsoft. Я использую его в браузере *Google Chrome* при помощи расширения **Bing AI for Chrome** и **VPN**. 
 
-▶️  Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты и т.д.)
-
+▶️  Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты, курсы и т.д.).
+  
 ▶️  [Data Structures & Algorithms - Google Tech Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/).
   
 ▶️  [Top Interview Questions - LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
