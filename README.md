@@ -29,7 +29,7 @@ Thank you for your attention! :+1:
   
 ▶️  [Data Structures & Algorithms - Google Tech Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/).
   
-▶️  [Top Interview Questions - LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+▶️  [Top Interview Questions - LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) - содержат в себе три коллекции разного уровня сложности (easy, medium, hard).
 
 ▶️ [Learn DS & Algorithms (Programiz)](https://www.programiz.com/dsa).
 
