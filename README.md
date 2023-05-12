@@ -14,7 +14,7 @@ Thank you for your attention! :+1:
 
 ## Интернет-ресурсы / Resources
 <details>
-  <summary>Список наиболее часто посещаемых мной интернет ресурсов:</summary>
+  <summary>Список наиболее часто посещаемых мной интернет-ресурсов:</summary>
 
   
 ▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
