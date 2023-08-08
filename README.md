@@ -52,6 +52,8 @@ Thank you for your attention! :+1:
 
 ▶️  Библиотека [React](https://ru.reactjs.org/) для создания пользовательских интерфейсов (UI)
 
+▶️ [Docker Docs](https://docs.docker.com/get-started/overview/)
+
 И это далеко не полный список!
 </details>
 
@@ -86,7 +88,8 @@ const tmp = []
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-Знак '>'  - для обозначения цитаты первого уровня, '>>' - второго уровня.
+Знак '>'  - для обозначения цитаты первого уровня
+     '>>' - второго уровня.
 > **Note** 
 > This is a note
 
