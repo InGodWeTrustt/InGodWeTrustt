@@ -54,6 +54,8 @@ Thank you for your attention! :+1:
 
 ▶️ [Docker Docs](https://docs.docker.com/get-started/overview/)
 
+▶️  [SQL Academy](https://sql-academy.org/ru)
+
 И это далеко не полный список!
 </details>
 
