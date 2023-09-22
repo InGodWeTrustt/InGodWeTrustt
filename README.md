@@ -13,50 +13,30 @@ Thank you for your attention! :+1:
 </p>
 
 ## Интернет-ресурсы / Resources
-<details>
+<details open>
   <summary>Список наиболее часто посещаемых мной интернет-ресурсов:</summary>
-
-▶️  [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - создание презентации на JS.
-
-▶️  [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
-
-▶️  [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
-
-▶️ [Python Tutorial](https://www.pythontutorial.net/)
-
-▶️ [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGPT. 
-
-▶️  [Bing AI Сhat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) - чат-бот, разработанный Microsoft. Я использую его в браузере *Google Chrome* при помощи расширения **Bing AI for Chrome** и **VPN**. 
-
-▶️  Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты, курсы и т.д.).
   
-▶️  [Data Structures & Algorithms - Google Tech Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/).
-  
-▶️  [Top Interview Questions - LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) - содержат в себе три коллекции разного уровня сложности (easy, medium, hard).
-
-▶️ [Learn DS & Algorithms (Programiz)](https://www.programiz.com/dsa).
-
-▶️ [Binary Tree Explore LeetCode](https://leetcode.com/explore/learn/card/data-structure-tree/).
-
-▶️  [Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/) - Introduction to Graphs – Data Structure and Algorithm Tutorials (DSA).
-
-▶️  [MDN Web Docs](https://developer.mozilla.org/)
-
-▶️  [StackOverflow](https://stackoverflow.com/)
-
-▶️  [FreeCodeCamp](https://www.freecodecamp.org/)
-
-▶️  [Learn JavaScript](https://javascript.info/)
-
-▶️  [Webpack](https://webpack.js.org/) 
-
-▶️  [Learn CSS](https://web.dev/learn/css/)
-
-▶️  Библиотека [React](https://ru.reactjs.org/) для создания пользовательских интерфейсов (UI)
-
-▶️ [Docker Docs](https://docs.docker.com/get-started/overview/)
-
-▶️  [SQL Academy](https://sql-academy.org/ru) - курс по изучению SQL, имеющий тренажер
+1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - создание презентации на JS
+1. [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
+1. [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
+1. [Python Tutorial](https://www.pythontutorial.net/)
+1. [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGPT. 
+1. [Bing AI Сhat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) - чат-бот, разработанный Microsoft. Я использую его в браузере *Google Chrome* при помощи расширения **Bing AI for Chrome** и **VPN**.
+1. Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты, курсы и т.д.).
+1. [Data Structures & Algorithms - Google Tech Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/).  
+1. [Top Interview Questions - LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) - содержат в себе три коллекции разного уровня сложности (easy, medium, hard).
+1. [Learn DS & Algorithms (Programiz)](https://www.programiz.com/dsa).
+1. [Binary Tree Explore LeetCode](https://leetcode.com/explore/learn/card/data-structure-tree/).
+1. [Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/) - Introduction to Graphs – Data Structure and Algorithm Tutorials (DSA).
+1. [MDN Web Docs](https://developer.mozilla.org/)
+1. [StackOverflow](https://stackoverflow.com/)
+1. [FreeCodeCamp](https://www.freecodecamp.org/)
+1. [Learn JavaScript](https://javascript.info/)
+1. [Webpack](https://webpack.js.org/) 
+1. [Learn CSS](https://web.dev/learn/css/)
+1. Библиотека [React](https://ru.reactjs.org/) для создания пользовательских интерфейсов (UI)
+1. [Docker Docs](https://docs.docker.com/get-started/overview/)
+1. [SQL Academy](https://sql-academy.org/ru) - курс по изучению SQL, имеющий тренажер
 
 </details>
 
