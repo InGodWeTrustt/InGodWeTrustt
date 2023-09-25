@@ -79,6 +79,7 @@ const tmp = []
 > **Warning**
 > This is a warning
 
+опция open - показывает выпадающий список
 <details open>
 <summary>Want to ruin the surprise?</summary>
 <br>
