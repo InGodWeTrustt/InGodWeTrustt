@@ -20,6 +20,7 @@ Thank you for your attention! :+1:
 1. [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 1. [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
 1. [Python Tutorial](https://www.pythontutorial.net/)
+1. [Python-docx](https://tokmakov.msk.ru/blog/item/78) - короткая статья по работе с файлами в MS Word в Python
 1. [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - аналог ChatGPT. 
 1. [Bing AI Сhat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) - чат-бот, разработанный Microsoft. Я использую его в браузере *Google Chrome* при помощи расширения **Bing AI for Chrome** и **VPN**.
 1. Различные материалы по алгоритмам и структурам данных (видеолекции, учебные пособия, сайты, курсы и т.д.).
