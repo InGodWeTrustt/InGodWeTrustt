@@ -37,7 +37,7 @@ Thank you for your attention! :+1:
 1. [Learn CSS](https://web.dev/learn/css/)
 1. Библиотека [React](https://ru.reactjs.org/) для создания пользовательских интерфейсов (UI)
 1. [Docker Docs](https://docs.docker.com/get-started/overview/)
-1. [SQL Academy](https://sql-academy.org/ru) - курс по изучению SQL, имеющий тренажер, печосницу
+1. [SQL Academy](https://sql-academy.org/ru) - курс по изучению SQL, имеющий тренажер, песочницу и т.д.
 
 </details>
 
