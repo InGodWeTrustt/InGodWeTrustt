@@ -50,6 +50,30 @@ Thank you for your attention! :+1:
 ![](https://www.codewars.com/users/InGodWeTrustt/badges/large)
 ![](https://www.codewars.com/users/y4y4/badges/large)
 
+
+<details>
+  <summaryМакрос VBA для pptx, чтобы установить высоту таблицы </summary>
+</details>
+```vb
+    Sub changeTableHeight()
+    Dim oSl As slide
+    For Each oSl In ActivePresentation.Slides
+        SetTables oSl
+    Next
+End Sub
+Sub SetTables(oSl As slide)
+    
+    Dim oSh As shape
+    Dim height As Double
+    height = 30
+    
+    For Each oSh In oSl.Shapes
+        If oSh.HasTable Then
+            oSh.height = height * 28.3464567
+        End If
+    Next
+End Sub
+```
 <!--
 КРАТКИЙ СПРАВОЧНИК по оформлению файлов markdown:
 * - по сути представляют собой списки
