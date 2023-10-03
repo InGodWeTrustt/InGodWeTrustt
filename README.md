@@ -51,11 +51,9 @@ Thank you for your attention! :+1:
 ![](https://www.codewars.com/users/y4y4/badges/large)
 
 
-<details>
-  <summary>Макрос VBA для pptx, чтобы установить высоту таблицы </summary>
-</details>
+Макрос VBA для pptx, чтобы установить высоту таблицы
 ```vba
-    Sub changeTableHeight()
+Sub changeTableHeight()
     Dim oSl As slide
     For Each oSl In ActivePresentation.Slides
         SetTables oSl
@@ -73,6 +71,7 @@ Sub SetTables(oSl As slide)
         End If
     Next
 End Sub
+```
 <!--
 КРАТКИЙ СПРАВОЧНИК по оформлению файлов markdown:
 * - по сути представляют собой списки
