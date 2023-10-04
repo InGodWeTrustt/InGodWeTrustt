@@ -50,6 +50,8 @@ Thank you for your attention! :+1:
 ![](https://www.codewars.com/users/InGodWeTrustt/badges/large)
 ![](https://www.codewars.com/users/y4y4/badges/large)
 
+***
+**Заметки для себя!**
 
 Макрос VBA для pptx, чтобы установить высоту таблицы
 ```vba
