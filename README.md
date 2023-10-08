@@ -15,7 +15,8 @@ Thank you for your attention! :+1:
 ## Интернет-ресурсы / Resources
 <details open>
   <summary>Список наиболее часто посещаемых мной интернет-ресурсов:</summary>
-  
+
+1. [Aichatting](https://www.aichatting.net/) - чат-бот
 1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - создание презентации на JS
 1. [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 1. [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
