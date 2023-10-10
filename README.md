@@ -77,7 +77,8 @@ Sub SetTables(oSl As slide)
 End Sub
 ```
 1. **npm link** - для локального связывания пакетов с нашей машиной. Нужно зайти в нужный каталог с package.json и прописать npm link. А дальше в том каталоге, где вы его хотите использовать прописать ***npm link <package_name>***, где package_name указана в файле package.json в поле **name**
-   Пример
+
+   Пример с официальной документации по [npm init](https://docs.npmjs.com/cli/v8/commands/npm-link)
 ```
 cd ~/projects/node-redis    # go into the package directory
 npm link                    # creates global link
