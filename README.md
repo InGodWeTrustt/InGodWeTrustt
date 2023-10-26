@@ -17,7 +17,7 @@ Thank you for your attention! :+1:
   <summary>Список наиболее часто посещаемых мной интернет-ресурсов:</summary>
 
 1. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
-2. [Дока](https://doka.guide/) -здесь собраны материалы по CSS, HTML, JS и т.д.
+2. [Дока](https://doka.guide/) -здесь собраны материалы по CSS ([flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
 3. [HTML Playground](https://adithsuresh.github.io/html-playground/)
 4. [Aichatting](https://www.aichatting.net/) - чат-бот
 1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - создание презентации на JS
