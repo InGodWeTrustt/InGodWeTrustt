@@ -14,12 +14,14 @@ Thank you for your attention! :+1:
 
 ## Интернет-ресурсы / Resources
 <details open>
-  <summary>Список наиболее часто посещаемых мной интернет-ресурсов:</summary>
+  <summary>Список полезных на мой взгляд интернет-ресурсов:</summary>
 
-1. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
-2. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
-3. [HTML Playground](https://adithsuresh.github.io/html-playground/)
-4. [Aichatting](https://www.aichatting.net/) - чат-бот
+1. [Socket.io](https://socket.io/docs/v4/tutorial/introduction) - библиотека JS, обеспечивающая двустороннюю связь между клиентами и серверами в режиме реального времени, построенная на основе протокола WebSocket
+2. [React.dev](https://react.dev/learn)
+3. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
+4. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
+5. [HTML Playground](https://adithsuresh.github.io/html-playground/)
+6. [Aichatting](https://www.aichatting.net/) - чат-бот
 1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - создание презентации на JS
 1. [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 1. [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
