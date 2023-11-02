@@ -16,12 +16,13 @@ Thank you for your attention! :+1:
 <details open>
   <summary>Список полезных на мой взгляд интернет-ресурсов:</summary>
 
-1. [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets) - шпаргалки по языку программирования со статической типизацией **Typescript**
-2. [Socket.io](https://socket.io/docs/v4/tutorial/introduction) - библиотека JS, обеспечивающая двустороннюю связь между клиентами и серверами в режиме реального времени, построенная на основе протокола WebSocket.
-3. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
-4. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
-5. [HTML Playground](https://adithsuresh.github.io/html-playground/)
-6. [Aichatting](https://www.aichatting.net/) - чат-бот
+1. [Getting started with Angular](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
+2. [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets) - шпаргалки по языку программирования со статической типизацией **Typescript**
+3. [Socket.io](https://socket.io/docs/v4/tutorial/introduction) - библиотека JS, обеспечивающая двустороннюю связь между клиентами и серверами в режиме реального времени, построенная на основе протокола WebSocket.
+4. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
+5. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
+6. [HTML Playground](https://adithsuresh.github.io/html-playground/)
+7. [Aichatting](https://www.aichatting.net/) - чат-бот
 1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - создание презентации на JS
 1. [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 1. [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
