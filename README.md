@@ -6,7 +6,7 @@ I'm not a professional developer. I'm just an amateur.
 <details open>
   <summary>Список полезных на мой взгляд интернет-ресурсов:</summary>
 
-1.[HTML CSS exercise(https://w3resource.com/html-css-exercise/main-html-css-exercises.php)
+1.[HTML CSS exercise](https://w3resource.com/html-css-exercise/main-html-css-exercises.php)
 2. [Шпаргалка по CSS Flexbox](https://tpverstak.ru/flex-cheatsheet/)
 3. [Stepik](https://welcome.stepik.org/ru) - образовательная платформа со множеством курсов
 4. [egghead](https://egghead.io/q?access_state=free) - Explore Popular Free Courses on egghead
