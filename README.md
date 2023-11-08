@@ -6,17 +6,18 @@ I'm not a professional developer. I'm just an amateur.
 <details open>
   <summary>Список полезных на мой взгляд интернет-ресурсов:</summary>
 
-1. [Шпаргалка по CSS Flexbox](https://tpverstak.ru/flex-cheatsheet/)
-2. [Stepik](https://welcome.stepik.org/ru) - образовательная платформа со множеством курсов
-3. [egghead](https://egghead.io/q?access_state=free) - Explore Popular Free Courses on egghead
-4. [CSSreferemce](https://cssreference.io/)
-5. [Getting started with Angular](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
-6. [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets) - шпаргалки по языку программирования со статической типизацией **Typescript**
-7. [Socket.io](https://socket.io/docs/v4/tutorial/introduction) - библиотека JS, обеспечивающая двустороннюю связь между клиентами и серверами в режиме реального времени, построенная на основе протокола WebSocket.
-8. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
-9. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
-10. [HTML Playground](https://adithsuresh.github.io/html-playground/)
-11. [Aichatting](https://www.aichatting.net/) - чат-бот
+1.[HTML CSS exercise](https://w3resource.com/html-css-exercise/main-html-css-exercises.php)
+2. [Шпаргалка по CSS Flexbox](https://tpverstak.ru/flex-cheatsheet/)
+3. [Stepik](https://welcome.stepik.org/ru) - образовательная платформа со множеством курсов
+4. [egghead](https://egghead.io/q?access_state=free) - Explore Popular Free Courses on egghead
+5. [CSSreferemce](https://cssreference.io/)
+6. [Getting started with Angular](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
+7. [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets) - шпаргалки по языку программирования со статической типизацией **Typescript**
+8. [Socket.io](https://socket.io/docs/v4/tutorial/introduction) - библиотека JS, обеспечивающая двустороннюю связь между клиентами и серверами в режиме реального времени, построенная на основе протокола WebSocket.
+9. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
+10. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
+11. [HTML Playground](https://adithsuresh.github.io/html-playground/)
+12. [Aichatting](https://www.aichatting.net/) - чат-бот
 1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - создание презентации на JS
 1. [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 1. [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
