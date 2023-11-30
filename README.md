@@ -7,7 +7,7 @@ I'm not a professional developer. I'm just an amateur.
   <summary>Список полезных на мой взгляд интернет-ресурсов:</summary>
 
 1. [Программирование на Python](https://stepik.org/course/67/syllabus) - курс представлен на платформе Stepik. Всего можно получить 100 баллов за выполнение заданий в курсе.
-2. [Google Colab](https://colab.research.google.com/?hl=ru_RU#scrollTo=xwP7dB7rxVgr)
+2. [Google Colab](https://colab.research.google.com/?hl=ru_RU#scrollTo=xwP7dB7rxVgr) - платформа, где можно проводить, например, анализ данных и его визуализацию на питоне при помощи библиотек numpy, pandas, seaborn, matplotlib и т.д.
 3. [HTML CSS exercise](https://w3resource.com/html-css-exercise/main-html-css-exercises.php)
 4. [Шпаргалка по CSS Flexbox](https://tpverstak.ru/flex-cheatsheet/)
 5. [Stepik](https://welcome.stepik.org/ru) - образовательная платформа со множеством курсов
