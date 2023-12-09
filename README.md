@@ -96,7 +96,8 @@ npm link                    # creates global link
 cd ~/projects/node-bloggy   # go into some other package directory.
 npm link redis              # link-install the package
 
-<!-------------------------- КОММЕНТАРИИ -----------------------------------------
+<!--
+
 
 КРАТКИЙ СПРАВОЧНИК по оформлению файлов markdown:
 
@@ -139,4 +140,7 @@ const tmp = []
 <br>
 Well, you asked for it!
 </details>
-->
+
+
+
+-->
