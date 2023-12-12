@@ -7,20 +7,21 @@ I'm not a professional developer. I'm just an amateur.
   <summary>Список полезных на мой взгляд интернет-ресурсов:</summary>
 
 1. [Программирование на Python](https://stepik.org/course/67/syllabus) - курс представлен на платформе Stepik. Всего можно получить 100 баллов за выполнение заданий в курсе.
-2. [Seaborn Kdeplot – A Comprehensive Guide](https://www.geeksforgeeks.org/seaborn-kdeplot-a-comprehensive-guide/)
-3. [Google Colab](https://colab.research.google.com/?hl=ru_RU#scrollTo=xwP7dB7rxVgr) - платформа, где можно проводить, например, анализ данных и его визуализацию на питоне при помощи библиотек numpy, pandas, seaborn, matplotlib и т.д.
-4. [HTML CSS exercise](https://w3resource.com/html-css-exercise/main-html-css-exercises.php)
-5. [Шпаргалка по CSS Flexbox](https://tpverstak.ru/flex-cheatsheet/)
-6. [Stepik](https://welcome.stepik.org/ru) - образовательная платформа со множеством курсов
-7. [egghead](https://egghead.io/q?access_state=free) - Explore Popular Free Courses on egghead
-8. [CSSreferemce](https://cssreference.io/)
-9. [Getting started with Angular](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
-10. [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets) - шпаргалки в размере 4 картинок формата PNG по языку программирования со статической типизацией **Typescript**
-11. [Socket.io](https://socket.io/docs/v4/tutorial/introduction) - библиотека JS, обеспечивающая двустороннюю связь между клиентами и серверами в режиме реального времени, построенная на основе протокола WebSocket.
-12. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
-13. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
-14. [HTML Playground](https://adithsuresh.github.io/html-playground/)
-15. [Aichatting](https://www.aichatting.net/) - чат-бот
+2. [Практикум по математике и Python](https://stepik.org/course/3356/syllabus)
+3. [Seaborn Kdeplot – A Comprehensive Guide](https://www.geeksforgeeks.org/seaborn-kdeplot-a-comprehensive-guide/)
+4. [Google Colab](https://colab.research.google.com/?hl=ru_RU#scrollTo=xwP7dB7rxVgr) - платформа, где можно проводить, например, анализ данных и его визуализацию на питоне при помощи библиотек numpy, pandas, seaborn, matplotlib и т.д.
+5. [HTML CSS exercise](https://w3resource.com/html-css-exercise/main-html-css-exercises.php)
+6. [Шпаргалка по CSS Flexbox](https://tpverstak.ru/flex-cheatsheet/)
+7. [Stepik](https://welcome.stepik.org/ru) - образовательная платформа со множеством курсов
+8. [egghead](https://egghead.io/q?access_state=free) - Explore Popular Free Courses on egghead
+9. [CSSreferemce](https://cssreference.io/)
+10. [Getting started with Angular](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
+11. [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets) - шпаргалки в размере 4 картинок формата PNG по языку программирования со статической типизацией **Typescript**
+12. [Socket.io](https://socket.io/docs/v4/tutorial/introduction) - библиотека JS, обеспечивающая двустороннюю связь между клиентами и серверами в режиме реального времени, построенная на основе протокола WebSocket.
+13. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
+14. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
+15. [HTML Playground](https://adithsuresh.github.io/html-playground/)
+16. [Aichatting](https://www.aichatting.net/) - чат-бот
 1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - создание презентации на JS
 1. [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 1. [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
