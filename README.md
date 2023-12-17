@@ -7,7 +7,7 @@ I'm not a professional developer. I'm just an amateur.
   <summary>Список полезных на мой взгляд интернет-ресурсов:</summary>
 
 1. [Программирование на Python](https://stepik.org/course/67/syllabus) - курс представлен на платформе Stepik. Всего можно получить 100 баллов за выполнение заданий в курсе.
-2. [Практикум по математике и Python](https://stepik.org/course/3356/syllabus) - курс представлен на степике (Stepik) и включает в себя: основы питона, теория вероятности и статистика, векторы и матрицы и т.д.
+2. [Практикум по математике и Python](https://stepik.org/course/3356/syllabus) - курс представлен на степике (Stepik) и включает в себя: основы питона, теория вероятности и статистика, векторы и матрицы,  работа с библиотекой numpy, matplotlib, pandas, seaborn и т.д.
 3. [Seaborn Kdeplot – A Comprehensive Guide](https://www.geeksforgeeks.org/seaborn-kdeplot-a-comprehensive-guide/)
 4. [Google Colab](https://colab.research.google.com/?hl=ru_RU#scrollTo=xwP7dB7rxVgr) - платформа, где можно проводить, например, анализ данных и его визуализацию на питоне при помощи библиотек numpy, pandas, seaborn, matplotlib и т.д.
 5. [HTML CSS exercise](https://w3resource.com/html-css-exercise/main-html-css-exercises.php)
