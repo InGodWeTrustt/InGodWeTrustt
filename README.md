@@ -1,6 +1,6 @@
 ## Вступление / Intro
 > **Warning** 
-I'm not a professional developer. I'm just an amateur. :) 
+I'm not a professional developer. I'm just an amateur :) 
 
 ## Интернет-ресурсы / Resources
 <details open>
