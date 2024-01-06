@@ -1,7 +1,3 @@
-## Вступление / Intro
-> **Warning** 
-I'm not a professional developer. I'm just an amateur :) 
-
 ## Интернет-ресурсы / Resources
 <details open>
   <summary>Список полезных на мой взгляд интернет-ресурсов:</summary>
