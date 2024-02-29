@@ -4,20 +4,20 @@
 
 1. [Plotly](https://plotly.com/python/) - Графическая библиотека Python Plotly создает интерактивные графики публикационного качества
 1. [Desmos](https://www.desmos.com/?lang=ru) - построение графиков, можно производить вычисления некоторых выражений.
-2. [Зорич. Математический анализ](https://matan.math.msu.su/media/uploads/2020/03/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
+2. [Зорич. Математический анализ](https://matan.math.msu.su/media/uploads/2020/03/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf).
 3. [Программирование на Python](https://stepik.org/course/67/syllabus) - курс представлен на платформе Stepik.
 4. [MathProfi](http://www.mathprofi.ru/) - отличный материал по высшей математике с хорошим (доступным) изложением материала и с примерами задач. 
 5. [Практикум по математике и Python](https://stepik.org/course/3356/syllabus) - курс представлен на платформе Stepik и включает в себя: основы питона, теория вероятности и статистика (краткая теория и задачки, применяется метод монте-карло для расчета вероятности вместо формулы бернулли), векторы и матрицы, работа с библиотекой numpy, matplotlib, pandas, seaborn и т.д.
 6. [Seaborn Kdeplot – A Comprehensive Guide](https://www.geeksforgeeks.org/seaborn-kdeplot-a-comprehensive-guide/) -  мощный инструмент для оценки функции плотности вероятности непрерывных или непараметрических данных
 7. [Mathi-AI](https://mathiai.com/) - чат-бот для решения математических задач. Не всегда дает верное решение, но иногда помогает в решение задач. Стоит попробовать.
 8. [Google Colab](https://colab.research.google.com/?hl=ru_RU#scrollTo=xwP7dB7rxVgr) - платформа, где можно проводить, например, анализ данных и его визуализацию на питоне при помощи библиотек numpy, pandas, seaborn, matplotlib и т.д.
-9. [HTML CSS exercise](https://w3resource.com/html-css-exercise/main-html-css-exercises.php)
-10. [Шпаргалка по CSS Flexbox](https://tpverstak.ru/flex-cheatsheet/)
-11. [Stepik](https://welcome.stepik.org/ru) - образовательная платформа со множеством курсов
-12. [egghead](https://egghead.io/q?access_state=free) - Explore Popular Free Courses on egghead
-13. [CSSreferemce](https://cssreference.io/)
+9. [HTML CSS exercise](https://w3resource.com/html-css-exercise/main-html-css-exercises.php).
+10. [Шпаргалка по CSS Flexbox](https://tpverstak.ru/flex-cheatsheet/).
+11. [Stepik](https://welcome.stepik.org/ru) - образовательная платформа со множеством курсов.
+12. [egghead](https://egghead.io/q?access_state=free) - Explore Popular Free Courses on egghead.
+13. [CSSreferemce](https://cssreference.io/).
 14. [Getting started with Angular](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
-15. [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets) - шпаргалки в размере 4 картинок формата PNG по языку программирования со статической типизацией **Typescript**
+15. [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets) - шпаргалки в размере 4 картинок формата PNG по языку программирования со статической типизацией **Typescript**.
 16. [Socket.io](https://socket.io/docs/v4/tutorial/introduction) - библиотека JS, обеспечивающая двустороннюю связь между клиентами и серверами в режиме реального времени, построенная на основе протокола WebSocket.
 17. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
 18. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
