@@ -2,7 +2,7 @@
 <details open>
   <summary>Список полезных на мой взгляд интернет-ресурсов по различным направлениям:</summary>
 
-1. [Plotly](https://plotly.com/python/) - Графическая библиотека Python создает интерактивные графики публикационного качества
+1. [Plotly](https://plotly.com/python/) - графическая библиотека Python создает интерактивные графики публикационного качества.
 1. [Desmos](https://www.desmos.com/?lang=ru) - построение графиков, можно производить вычисления некоторых выражений.
 2. [Зорич. Математический анализ](https://matan.math.msu.su/media/uploads/2020/03/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf).
 3. [Программирование на Python](https://stepik.org/course/67/syllabus) - курс представлен на платформе Stepik.
@@ -23,7 +23,7 @@
 18. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
 19. [HTML Playground](https://adithsuresh.github.io/html-playground/)
 20. [Aichatting](https://www.aichatting.net/) - чат-бот
-1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - создание презентации на JS
+1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - библиотека для создания презентаций на языке программирования JS.
 1. [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 1. [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
 1. [Python Tutorial](https://www.pythontutorial.net/)
