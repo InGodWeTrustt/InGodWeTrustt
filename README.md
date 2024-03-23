@@ -21,8 +21,8 @@
 16. [Socket.io](https://socket.io/docs/v4/tutorial/introduction) - библиотека JS, обеспечивающая двустороннюю связь между клиентами и серверами в режиме реального времени, построенная на основе протокола WebSocket.
 17. [Основы JavaScript](https://wiki.rakovets.by/web/js/) - на странице одной собран полезный материал по JS, работе с BOM и DOM и т.д.
 18. [Дока](https://doka.guide/) -здесь собраны материалы по CSS (например, [flexbox](https://doka.guide/css/flexbox-guide/)), HTML, JS и т.д.
-19. [HTML Playground](https://adithsuresh.github.io/html-playground/)
-20. [Aichatting](https://www.aichatting.net/) - чат-бот
+19. [HTML Playground](https://adithsuresh.github.io/html-playground/).
+20. [Aichatting](https://www.aichatting.net/) - чат-бот.
 1. [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - библиотека для создания презентаций на языке программирования JS.
 1. [RegEx101](https://regex101.com/) - сервис для проверки регулярных выражений (regular expressions).
 1. [Python Tutor: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit) - визуализатор кода на Питоне, JS и т.д.
