@@ -2,7 +2,7 @@
 <details open>
   <summary>Список полезных на мой взгляд интернет-ресурсов по различным направлениям:</summary>
 
-1.  [https://data.vk.company/pages/index/] - ВК Академия. Здесь же я прохожу курс по алгоритмам и структурам данных.
+1.  [ВК Академия](https://data.vk.company/pages/index/) -  Здесь же я прохожу курс по алгоритмам и структурам данных.
 2.  [Plotly](https://plotly.com/python/) - графическая библиотека Python создает интерактивные графики публикационного качества.
 1. [Desmos](https://www.desmos.com/?lang=ru) - построение графиков, можно производить вычисления некоторых выражений.
 2. [Зорич. Математический анализ](https://matan.math.msu.su/media/uploads/2020/03/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf).
