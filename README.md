@@ -49,52 +49,8 @@
 
 </details>
 
-Список курсов, которые мне порекомендовал YaGpt:
-* Яндекс Практикум - это онлайн-школа, которая предлагает курсы по программированию, data science и другим IT-направлениям. Они также предоставляют возможность пройти стажировку в Яндексе.
-* Coursera - это платформа, на которой можно найти курсы от ведущих университетов мира. Они предлагают курсы по программированию на различных языках, таких как Python, Java и других.
-* Udacity - это еще одна платформа для онлайн-обучения, которая предлагает курсы по программированию и data science. Они также имеют программу стажировки для студентов.
-* Google Developers Training - это бесплатные курсы от Google, которые можно пройти онлайн. Они предлагают курсы по различным направлениям, включая программирование.
-* Microsoft Virtual Academy - это виртуальная академия, которая предлагает онлайн-курсы по программированию от Microsoft. 
-
-<!-- ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InGodWeTrustt&hide=contribs,prs&show_icons=true&theme=yeblu&border_radius=25) -->
-
 ## Аккаунты
 Ссылка на мой аккаунт на Codewars - [Link](https://www.codewars.com/users/InGodWeTrustt)    
 
 ![](https://www.codewars.com/users/InGodWeTrustt/badges/large)
 ![](https://www.codewars.com/users/y4y4/badges/large)
-
-***
-**Заметки для себя!**
-
-1. Макрос VBA для pptx, чтобы установить высоту таблицы на каждом слайде равной, например, 30 см, но можно и другое значение написать.
-Я это делал для того, чтобы высота таблицы на каждом слайде была по размеру слайда, который можно посмотреть в  *Конструктор* - *Размер слайда* - *Настроить размер слайда*
-```vba
-Sub changeTableHeight()
-    Dim oSl As slide
-    For Each oSl In ActivePresentation.Slides
-        SetTables oSl
-    Next
-End Sub
-Sub SetTables(oSl As slide)
-    
-    Dim oSh As shape
-    Dim height As Double
-    height = 30
-    
-    For Each oSh In oSl.Shapes
-        If oSh.HasTable Then
-            oSh.height = height * 28.3464567
-        End If
-    Next
-End Sub
-```
-1. **npm link** - для локального связывания пакетов с нашей машиной. Нужно зайти в нужный каталог с package.json и прописать npm link. А дальше в том каталоге, где вы его хотите использовать прописать ***npm link <package_name>***, где package_name указана в файле package.json в поле **name**
-
-   Пример с официальной документации по [npm link](https://docs.npmjs.com/cli/v8/commands/npm-link)
-```
-cd ~/projects/node-redis    # go into the package directory
-npm link                    # creates global link
-cd ~/projects/node-bloggy   # go into some other package directory.
-npm link redis              # link-install the package
